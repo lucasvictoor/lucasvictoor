@@ -24,8 +24,8 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [Sistema E-commerce para uma Physical Store 1º](https://github.com/lucasvictoor/Physical-Store)
-- 🔹 [Sistema E-commerce para uma Physical Store FULL 2º](https://github.com/lucasvictoor/Physical-Store-Full)
+- 🔹 [Sistema E-commerce para uma Physical Store FULL](https://github.com/lucasvictoor/Physical-Store-Full)
+- 🔹 [Gestão Monitoramento de Frota de Caminhões](https://github.com/2023-1-ES-UFAPE/gestao-monitoramento-frota)
 - 🔹 [Imersão Spotify](https://github.com/lucasvictoor/Imersao-Front-Alura)
 
 ## 📫 Entre em Contato
